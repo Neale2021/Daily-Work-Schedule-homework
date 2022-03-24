@@ -11,4 +11,7 @@ Page can be found here:
 
 and examples of page can be found below:
 
+![Color coded to mark Past event Present event Future event](https://user-images.githubusercontent.com/98126694/159818793-7ec094e2-d1ea-47c2-84d3-8f6731f68707.png)
+
+![Task entered and when save button is clicked it remains after you refresh page](https://user-images.githubusercontent.com/98126694/159818811-50cf16ab-59d7-452f-8c1d-ecbf39a0fe24.png)
 
