@@ -11,9 +11,4 @@ Page can be found here:
 
 and examples of page can be found below:
 
-<img width="1792" alt="Tasked entered and saved and also remains after refresh" src="https://user-images.githubusercontent.com/98126694/159818442-c9bc7d9a-5db5-469b-8ea9-88d48af741c7.png">
 
-
-
-
-<img width="1792" alt="Colour coded for past future and present" src="https://user-images.githubusercontent.com/98126694/159818453-1579fa50-0a4a-426a-a37f-0e42bb797b9c.png">
