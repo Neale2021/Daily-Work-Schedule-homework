@@ -7,7 +7,7 @@ Moment
 Bootstrap
 Jquery.
 
-Page can be found here:
+Page can be found here: https://neale2021.github.io/Daily-Work-Schedule-homework/ 
 
 and examples of page can be found below:
 
